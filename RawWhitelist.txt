@@ -1012,6 +1012,7 @@ feedly.com
 
 # added by whosteen
 # various amazon - android app, echo, etc
+s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 player.stats.live-video.net
 aan.amazon-adsystem.com
 aan.amazon.com
