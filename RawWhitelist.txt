@@ -1074,3 +1074,6 @@ aax-us.amazon-adsystem.com
 cloudfront-labs.amazonaws.com
 s3-ap-northeast-1.amazonaws.com
 amazoncustomerservice.d2.sc.omtrdc.net
+
+# web beacons, blocking access to site
+beacon.walmart.com
