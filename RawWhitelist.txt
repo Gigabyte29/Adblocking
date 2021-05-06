@@ -1074,3 +1074,5 @@ aax-us.amazon-adsystem.com
 cloudfront-labs.amazonaws.com
 s3-ap-northeast-1.amazonaws.com
 amazoncustomerservice.d2.sc.omtrdc.net
+secure-gl.imrworldwide.com
+bs.serving-sys.com
