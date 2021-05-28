@@ -1048,3 +1048,4 @@ secure-gl.imrworldwide.com
 bs.serving-sys.com
 d2egcvq7li5bpq.cloudfront.net
 tv.scdn.co
+fls-eu.amazon.it
