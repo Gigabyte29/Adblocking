@@ -1049,7 +1049,3 @@ bs.serving-sys.com
 d2egcvq7li5bpq.cloudfront.net
 tv.scdn.co
 fls-eu.amazon.it
-cdn-pci.optimizely.com
-logx.optimizely.com
-appboy-images.com
-www.googletagmanager.com
